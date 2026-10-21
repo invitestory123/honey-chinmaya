@@ -16,6 +16,8 @@ Edit `couple` in `editable/wedding-data.js`:
 - `tagline`: Subtitle phrase (e.g. `"A Sunset Celebration of Forever"`)
 
 ### Invocation & Family Invitation
+> Note: the first page follows the template's original hero — couple illustration, "Together with our families", the couple names, date and venue. The fields below are still editable but are not currently displayed anywhere on the page.
+
 Edit `invitation` in `editable/wedding-data.js`:
 - `shloka`: Sacred invocation (e.g. `"॥ ॐ श्री गणेशाय नमः ॥"`)
 - `brideParents`: Bride's parents line (e.g. `"Mrs. Lalita & Mr. Purnendu Kumar Gupta"`)
