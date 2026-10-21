@@ -45,8 +45,8 @@ window.WEDDING_DATA = {
   celebrationsOverline: "Two days of joy",
 
   story: {
-    title: "A love written in tides",
-    text: "Barefoot on the sand, with love in the air and the sunset as our witness. We invite you to join us as we celebrate our new beginning where the sea meets the sky.",
+    title: "From Friends to Forever",
+    text: "College brought us together as friends, little knowing that one day, we’d become so much more to each other.\n\nSomewhere between friendship and love, we found our person, and now, we’re ready to begin our forever together. ❤️",
   },
 
   events: [
@@ -55,7 +55,7 @@ window.WEDDING_DATA = {
       glyph: "🌼",
       date: "6 Dec 2026",
       time: "10:00 AM",
-      venue: "Poolside Lawn, Royal Orchid Beach Resort",
+      venue: "Poolside Lawn",
       note: "A celebration of sunshine, colours, laughter, and playful moments!\nDress Code: Shades of Yellow 💛\nP.S. Things might get splashy!",
     },
     {
@@ -63,7 +63,7 @@ window.WEDDING_DATA = {
       glyph: "✨",
       date: "6 Dec 2026",
       time: "6:00 PM",
-      venue: "Chess-board Lawn, Royal Orchid Beach Resort",
+      venue: "Chess-board Lawn",
       note: "An evening of music, dance, and dazzling celebrations!\nDress Code: Bring on the Bling! ✨",
     },
     {
@@ -71,7 +71,7 @@ window.WEDDING_DATA = {
       glyph: "🌅",
       date: "7 Dec 2026",
       time: "2:00 PM onwards",
-      venue: "Sunset Beach Mandap, Royal Orchid Beach Resort",
+      venue: "Sunset Beach Mandap",
       note: "Barefoot on the sand, with love in the air and the sunset as our witness.\nBaraat: 2:00 PM · Varmala: 5:00 PM · Vidai: 10:00 PM\nDress Code: Dreamy Pastels 🌸",
     },
   ],
@@ -85,10 +85,18 @@ window.WEDDING_DATA = {
     Wedding: "2026-12-07T14:00:00+05:30",
   },
 
+  pet: {
+    title: "Our Little Mascot",
+    text: "Our little mascot can’t wait to celebrate with you! 🐾❤️",
+    image: "./editable/assets/pet-dog.png",
+  },
+
   images: {
     couple: "./editable/assets/couple-walking.png",
     hero: "./editable/assets/hero-arch.jpg",
-    ringsVignette: "./editable/assets/rings-seashell-vignette.png",
+    logo: "./editable/assets/hc-monogram.png",
+    ringsVignette: "./editable/assets/hc-monogram.png",
+    pet: "./editable/assets/pet-dog.png",
     venueMap: "./editable/assets/venue-map-Wf_iSDI1.jpg",
     footerWash: "./editable/assets/footer-wash-DG1rtX_C.jpg",
     openerVideo: "./editable/assets/wedding-opener.mp4",
